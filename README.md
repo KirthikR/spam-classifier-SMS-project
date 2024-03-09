@@ -1,4 +1,4 @@
-# BHARAT INTRNSHIP ( DATA SCIENCE PROJECT)
+# BHARAT INTRNSHIP SMS classifier PROJECT
 # Project Overview
 # Objective
 The project aims to build a spam classifier for SMS (Short Message Service) messages. The goal is to create a model that can classify SMS messages as either spam or not spam (ham).
