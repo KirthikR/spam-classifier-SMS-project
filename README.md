@@ -53,28 +53,35 @@ Pandas: Data manipulation library.
 Matplotlib and Seaborn: Data visualization libraries.
 
 # Project Workflow
-Data Collection: 
+# Data Collection: 
 
 Gather a dataset of SMS messages labeled as spam or ham.
-Data Preprocessing: 
+
+# Data Preprocessing: 
 
 Clean and prepare the dataset for analysis.
-Exploratory Data Analysis (EDA):
+
+# Exploratory Data Analysis (EDA):
 
 Understand the characteristics of the dataset.
-Text Vectorization: 
+
+# Text Vectorization: 
 
 Convert text data into a numerical format.
-Model Development:
+
+# Model Development:
 
 Build and train a spam classifier model.
-Model Evaluation: 
+
+# Model Evaluation: 
 
 Assess the model's performance using relevant metrics.
-Model Deployment (Optional):
+
+# Model Deployment (Optional):
 
 Deploy the model if it needs to be used in a real-world scenario.
-Documentation: 
+
+# Documentation: 
 
 Create detailed documentation explaining the project.
 
