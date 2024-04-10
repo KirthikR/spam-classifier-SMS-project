@@ -42,6 +42,7 @@ The project is likely organized into several key components:
   Creating comprehensive documentation that explains the project's purpose, methodology, and the usage of the spam classifier. This documentation is crucial for anyone who wants to understand, reproduce, or build upon the work.
 
 **Libraries and Tools**
+
 Commonly used libraries and tools for this type of project might include:
 
 Python: Programming language for machine learning and data analysis.
