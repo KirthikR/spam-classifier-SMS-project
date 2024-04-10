@@ -3,9 +3,11 @@
 **Project Overview**
 
 **Objective**
+
 The project aims to build a spam classifier for SMS (Short Message Service) messages. The goal is to create a model that can classify SMS messages as either spam or not spam (ham).
 
 **Project Components**
+
 The project is likely organized into several key components:
 
 * Data Collection:
@@ -89,4 +91,5 @@ Deploy the model if it needs to be used in a real-world scenario.
 Create detailed documentation explaining the project.
 
 **Conclusion**
+
 This project aims to create a spam classifier for SMS messages, involving tasks such as data preprocessing, exploratory data analysis, text vectorization, model development, and evaluation. Documentation is key to helping others understand the project and its findings. Organizing the project into a clear and well-documented structure will facilitate collaboration and make it easier for others to contribute or replicate the work.
